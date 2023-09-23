@@ -1,0 +1,496 @@
+body{
+  padding:0px;
+  margin: 0px; 
+     
+}
+#catchy
+{
+  color: white;
+}
+#name
+{
+  color:white;
+  font-size: 70px;
+  margin-bottom:50px ;
+   font-variant: small-caps;
+  font-weight: bolder;
+  
+}
+.App {
+  text-align: center;
+}
+
+nav ul {
+  display:flex ;
+  justify-content:space-between ;
+  align-content:space-between ;
+  align-items:center ;
+  list-style:none;
+  
+}
+.logo img{
+  width:50px ;
+  height:50px ;
+  padding:0.1em;
+  border:0.5em solid black;
+  margin-top: 20px;
+}
+nav ul li{
+margin-right: 38px;
+font-weight: bold;
+}
+#si nav ul li{
+  margin-right: 68px;
+  font-weight: bold;
+  }
+nav ul li a{
+  text-decoration: none;
+  color:white;
+
+}
+a:hover{
+  color:rgb(225, 102, 153);
+}
+#signup
+{
+  color:black;
+  height: 2cm;
+  width: 7cm;
+  margin-bottom: 10px;
+  margin-right: 20px;
+  margin-left: 150px;
+  border-color: rgb(247, 235, 235);
+  background-color: rgb(255, 255, 255);
+}
+#signup:hover{
+background-color:rgb(255, 192, 217);
+}
+#login:hover{
+  background-color:rgb(255, 192, 217);
+  }
+#login
+{
+  color:black;
+  height: 2cm;
+  width: 7cm;
+  border-color:rgb(255, 255, 255);
+  margin-left:0px;
+  margin-right:0px;
+}
+#catchy1
+{
+  color: white;
+  
+}
+#name1
+{
+  font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  margin-left:0px;
+  
+}
+#image
+{
+ 
+  width: 99.39vw;
+  height: 99.39vh; 
+}
+#lab1,#lab2,#lab3,#lab4,#lab5,#lab6
+{
+  color: black;
+  font-display:flex;
+  flex-direction: column;
+  margin-bottom: 0;
+}
+.em
+{  
+  margin-left: 500px;
+  background-color:rgba(243, 213, 95, 0.782);
+  align-items: center;
+  justify-content: center;
+  height: 19cm;
+  width: 10cm;
+  border-radius: 0.5cm;
+  border-color: black;
+  border-width: 100px;
+  position: absolute;
+  margin-left: 900px; 
+  margin-top:10px;
+}
+.em1
+{  
+  margin-left: 200px;
+  background-color:rgba(156, 228, 244, 0.782);
+  align-items: center;
+  justify-content: center;
+  height: 19cm;
+  width: 10cm;
+  border-radius: 0.5cm;
+  border-color: black;
+  border-width: 100px;
+  position: absolute;
+  margin-right: 2000px; 
+  margin-top:10px;
+}
+#but
+{
+  margin-top: 10px;
+  margin-right: 3px;
+}
+#si
+{
+  position: absolute;
+ }
+ #signorlog
+ {
+  margin-left: 20px;
+  margin-top: 200px;
+  margin-right: 100px;
+ }
+ #sig
+ {
+  margin-left: 70px;
+
+ }
+ #nav
+ {
+  margin-left: 750px;
+ }
+ #image2
+ {
+  width: 1528px;
+  height: 738.7999px;
+ }
+ #AppBar
+ {
+  background-color:rgb(107, 212, 109);
+  
+ }
+ #AppBar nav ul li a
+ {
+  color: black;
+  margin-bottom: 10px;
+ }
+ #AppBar, #name1
+ {
+color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ #sea
+ {
+  background-color: black;
+  height: 350px;
+  display: flex;
+  column-gap: 100px;
+ }
+ #in
+ {
+  margin-top: 60px;
+ }
+ #inn
+ {
+  margin-top: 0px;
+ }
+ .profile
+ {
+  padding:20px;
+  margin-left:70px;
+  width:300px;
+  height: 300px;
+ }
+ .profile1{
+  padding-top: 20px;
+  margin-left:30px;
+  width:300px;
+  height: 300px;
+ }
+ #but1
+ {
+    width:200px;
+    height: 20px;
+ }
+ #sea,h1{
+  color:white;
+  margin-top: 80px;
+ }
+ #arc
+ {
+  margin-right: 60px;
+  margin-top: 0px;
+ }
+ #app
+ {
+   height: 100px;
+ }
+ #con
+ {
+  background-color:rgb(107, 212, 109);
+  height: 200px;
+  display: flex;
+  column-gap: 20px;
+ }
+ #comp
+ {
+  margin-left: 120px;
+ margin-right:100px;
+ }
+ #h1c
+ {
+  margin-top: 20px;
+ }
+ #our
+ {
+  margin-left: 120px;
+ }
+ #sup
+ {
+  margin-left: 120px;
+ }
+ #c1
+ {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin: 30px;
+    column-gap: 300px;
+    align-content: center;
+    margin-top: 80px;
+    background-color:black;
+ }
+ #c1 ul{
+  margin-left: 100px;
+  color: white;
+ }
+ #c1 h1{
+  margin-left: 150px;
+  margin-top: 0px;
+ }
+ #c2 {
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    margin: 30px;
+    column-gap: 300px;
+    align-content: center;
+    margin-top: 80px;
+    background-color:black;
+ }
+ #c2 ul{
+  margin-left: 100px;
+  color: white;
+ }
+ #c2 h1{
+  margin-left: 150px;
+  margin-top: 0px;
+ }
+ #c3 {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  margin: 30px;
+  column-gap: 300px;
+  align-content: center;
+  margin-top: 80px;
+  background-color:black;
+}
+#c3 ul{
+margin-left: 100px;
+color: white;
+}
+#c3 h1{
+margin-left: 150px;
+margin-top: 40px;
+}
+#c4 {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  margin: 30px;
+  column-gap: 300px;
+  align-content: center;
+  margin-top: 80px;
+  background-color:black;
+}
+#c4 ul{
+margin-left: 100px;
+color: white;
+}
+#c4 h1{
+margin-left: 150px;
+margin-top: 0px;
+}
+#c5 {
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  margin: 30px;
+  column-gap: 300px;
+  align-content: center;
+  margin-top: 80px;
+  background-color:black;
+}
+#c5 ul{
+margin-left: 100px;
+color: white;
+}
+#c5 h1{
+margin-left: 150px;
+margin-top: 0px;
+}
+ #cat1
+ {
+  background-color:rgb(85, 125, 125) ;
+  height:390vh;
+ }
+ #hbut
+ {
+  margin-top: 50px;
+  margin-left: 250px;
+  margin-right: 10px;
+ }
+#fin,#fin1
+{
+  background-color:rgb(235, 100, 83) ;
+  color:black;
+  position: absolute;
+}
+#fin
+{
+  width: 900px;
+  border-width: 100px;
+  border-top-left-radius: 0.5cm;
+  margin-left:50px;
+  margin-top:250px;
+  border-radius: 0.5cm ;
+}
+#fin h1
+{
+  margin-left:110px;
+}
+#li1
+{
+  margin-top: 10px;
+}
+#imgd2
+{
+  width:600px;
+  height:300px;
+}
+#imgd3
+{
+  width:600px;
+  height:300px;
+}
+#imgd4
+{
+  width:600px;
+  height:300px;
+}
+#imgd5
+{
+  width:600px;
+  height:300px;
+}
+#dog1
+{
+  background-color:rgb(163, 183, 117) ;
+  height:350vh;
+}
+#imaged2
+{
+  width: 1528px;
+  height: 738.7999px;
+}
+#imgf
+{
+  width: 1528px;
+  height: 738.7px;
+}
+#hbut1
+ {
+  margin-top: 70px;
+  margin-left: 700px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background-color: rgb(235, 100, 83);
+  font-weight: bolder;
+ }
+ #c1  button
+ {
+   background-color: black;
+   color: white;
+   font-weight: bolder;
+ }
+ #c2  button
+ {
+   background-color: black;
+   color: white;
+   font-weight: bolder;
+ }
+ #c3  button
+ {
+   background-color: black;
+   color: white;
+   font-weight: bolder;
+ }
+ #c4  button
+ {
+   background-color: black;
+   color: white;
+   font-weight: bolder;
+ }
+ #c5  button
+ {
+   background-color: black;
+   color: white;
+   font-weight: bolder;
+ }
+ #c1 button:hover{
+   background-color: rgb(85, 125, 125);
+ }
+ #c2 button:hover{
+  background-color: rgb(85, 125, 125);
+}
+#c3 button:hover{
+  background-color: rgb(85, 125, 125);
+}
+#c4 button:hover{
+  background-color: rgb(85, 125, 125);
+}
+#c5 button:hover{
+  background-color: rgb(85, 125, 125);
+}
+#dog1 #c1 button:hover{
+  background-color: rgb(163, 183, 117);
+}
+#dog1 #c2 button:hover{
+  background-color: rgb(163, 183, 117);
+}
+#dog1 #c3 button:hover{
+  background-color: rgb(163, 183, 117);
+}
+#dog1 #c4 button:hover{
+  background-color: rgb(163, 183, 117);
+}
+#dog1 #c5 button:hover{
+  background-color: rgb(163, 183, 117);
+}
+#tab
+{
+  position: absolute;
+  margin-top: 500px;
+  color: black;
+  margin-left: 200px;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+
+}
+table th, table td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #121111;
+  border-top: 1px solid #121111;
+  border-left: 1px solid #121111 ;
+  border-right:  1px solid #121111;
+}
